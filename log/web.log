@@ -1,0 +1,316 @@
+2021-11-07 16:20:14 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 16:20:14 INFO  BaseTest:25 - Installation finish
+2021-11-07 16:20:16 INFO  BasePage:60 - Element görüntülendi
+2021-11-07 16:20:17 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:11:23 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:11:23 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:11:25 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:11:27 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:11:27 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:11:28 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:11:30 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:11:30 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:11:32 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:11:35 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:12:15 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:12:15 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:12:18 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:12:20 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:12:20 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:12:21 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:12:22 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:12:23 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:12:24 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:13:21 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:13:24 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:16:00 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:16:00 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:16:03 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:16:05 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:16:05 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:16:05 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:16:07 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:16:07 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:16:09 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:16:11 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:16:13 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:16:44 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:16:44 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:16:47 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:16:49 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:16:49 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:16:49 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:16:51 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:16:52 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:16:53 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:16:54 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:19:56 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:19:56 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:19:58 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:19:59 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:20:06 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:20:06 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:20:08 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:20:08 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:20:10 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:20:13 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:20:18 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:20:40 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:20:40 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:20:43 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:20:44 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:20:45 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:20:45 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:20:47 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:20:47 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:20:48 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:20:50 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:21:28 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:21:44 INFO  BasePage:70 - Beden seçildi.
+2021-11-07 17:21:54 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:25:27 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:25:27 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:25:30 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:25:31 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:25:33 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:25:33 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:25:35 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:25:35 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:25:36 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:25:38 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:25:41 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:26:06 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:26:06 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:26:09 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:26:09 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:26:15 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:26:15 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:26:17 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:26:17 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:26:18 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:26:21 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:26:50 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:26:53 INFO  BasePage:70 - Beden seçildi.
+2021-11-07 17:27:02 INFO  BasePage:70 - Sepetim e tıklandı.
+2021-11-07 17:27:25 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:30:45 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:30:45 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:30:48 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:30:48 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:30:50 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:30:51 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:30:53 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:30:53 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:30:55 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:30:57 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:31:00 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:31:13 INFO  BasePage:70 - Beden seçildi.
+2021-11-07 17:31:19 INFO  BasePage:70 - Sepetim e tıklandı.
+2021-11-07 17:31:23 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:34:49 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:34:49 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:34:55 INFO  BasePage:70 - Anladım a tıklandı.
+2021-11-07 17:34:55 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:34:57 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:34:57 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:34:57 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:34:59 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:34:59 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:35:00 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:35:03 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:35:08 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:35:14 INFO  BasePage:70 - productPagePrice:
+2021-11-07 17:37:01 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:37:01 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:37:05 INFO  BasePage:70 - Anladım a tıklandı.
+2021-11-07 17:37:05 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:37:06 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:37:08 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:37:08 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:37:11 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:37:12 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:37:15 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:37:18 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:37:21 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:37:21 INFO  BasePage:70 - productPagePrice:83,99 TL
+2021-11-07 17:37:22 INFO  BasePage:70 - Beden seçildi.
+2021-11-07 17:37:24 INFO  BasePage:70 - Sepetim e tıklandı.
+2021-11-07 17:37:25 INFO  BasePage:70 - myBasketPrice:83,99 TL
+2021-11-07 17:37:26 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:41:23 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:41:23 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:41:28 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:41:39 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:41:39 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:41:43 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:41:53 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:41:53 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:41:58 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:42:25 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:42:25 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:42:28 INFO  BasePage:70 - Anladım a tıklandı.
+2021-11-07 17:42:28 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:42:28 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:42:30 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:42:30 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:42:32 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:42:32 INFO  BasePage:70 - pantolon girildi.
+2021-11-07 17:42:33 INFO  BasePage:70 - Ara butonuna tıklandı.
+2021-11-07 17:42:36 INFO  BasePage:70 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:42:38 INFO  BasePage:70 - Ürüne tıklandı.
+2021-11-07 17:42:39 INFO  BasePage:70 - productPagePrice:83,99 TL
+2021-11-07 17:42:39 INFO  BasePage:70 - Beden seçildi.
+2021-11-07 17:42:42 INFO  BasePage:70 - Sepetim e tıklandı.
+2021-11-07 17:42:42 INFO  BasePage:70 - myBasketPrice:83,99 TL
+2021-11-07 17:42:54 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:46:58 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:46:58 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:47:03 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:47:37 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:47:37 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:47:41 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:47:41 INFO  BasePage:70 - Anladım a tıklandı.
+2021-11-07 17:47:41 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:47:43 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:47:43 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:47:44 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:47:55 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:48:04 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:48:04 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:48:07 INFO  BasePage:70 - Element görüntülendi
+2021-11-07 17:48:08 INFO  BasePage:70 - Anladım a tıklandı.
+2021-11-07 17:48:08 INFO  BasePage:70 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:48:09 INFO  BasePage:70 - E-Posta Adresi girildi.
+2021-11-07 17:48:10 INFO  BasePage:70 - Şifre girildi.
+2021-11-07 17:48:10 INFO  BasePage:70 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:54:05 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:54:05 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:54:08 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 17:54:08 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 17:54:09 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:54:10 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 17:54:10 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 17:54:12 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:54:12 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 17:54:15 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 17:54:17 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:54:19 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 17:54:20 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 17:54:21 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 17:54:23 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 17:54:24 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 17:54:25 INFO  BaseTest:34 - Driver quit
+2021-11-07 17:56:41 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 17:56:41 INFO  BaseTest:25 - Installation finish
+2021-11-07 17:56:44 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 17:56:44 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 17:56:44 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 17:56:47 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 17:56:47 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 17:56:48 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 17:56:49 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 17:56:50 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 17:56:52 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 17:56:55 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 17:56:55 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 17:56:56 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 17:56:58 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 17:56:58 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 17:57:00 INFO  BaseTest:34 - Driver quit
+2021-11-07 18:03:00 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 18:03:00 INFO  BaseTest:25 - Installation finish
+2021-11-07 18:03:03 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 18:03:04 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 18:03:04 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 18:03:06 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 18:03:06 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 18:03:09 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 18:03:10 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 18:03:12 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 18:03:15 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 18:03:17 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 18:03:17 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 18:03:18 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 18:03:20 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 18:03:20 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 18:03:21 INFO  BasePage:64 - Sil butonuna tıklandı.
+2021-11-07 18:03:21 INFO  BasePage:64 - Pop Up Sil butonuna tıklandı.
+2021-11-07 18:03:23 INFO  BaseTest:34 - Driver quit
+2021-11-07 18:04:56 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 18:04:56 INFO  BaseTest:25 - Installation finish
+2021-11-07 18:04:59 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 18:04:59 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 18:05:00 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 18:05:02 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 18:05:02 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 18:05:04 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 18:05:04 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 18:05:05 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 18:05:08 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 18:05:10 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 18:05:11 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 18:05:12 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 18:05:14 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 18:05:14 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 18:05:15 INFO  BasePage:64 - Sil butonuna tıklandı.
+2021-11-07 18:05:15 INFO  BasePage:64 - Pop Up Sil butonuna tıklandı.
+2021-11-07 18:05:16 INFO  BasePage:64 - cartEmptyTitle:Sepetinizde ürün bulunmamaktadır.
+2021-11-07 18:05:17 INFO  BaseTest:34 - Driver quit
+2021-11-07 18:06:52 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 18:06:52 INFO  BaseTest:25 - Installation finish
+2021-11-07 18:06:55 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 18:06:56 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 18:06:56 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 18:06:58 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 18:06:58 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 18:07:00 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 18:07:00 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 18:07:01 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 18:07:04 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 18:07:06 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 18:07:07 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 18:07:08 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 18:07:10 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 18:07:10 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 18:07:11 INFO  BasePage:64 - Sil butonuna tıklandı.
+2021-11-07 18:07:11 INFO  BasePage:64 - Pop Up Sil butonuna tıklandı.
+2021-11-07 18:07:12 INFO  BasePage:64 - cartEmptyTitle:Sepetinizde ürün bulunmamaktadır.
+2021-11-07 18:07:13 INFO  BaseTest:34 - Driver quit
+2021-11-07 18:08:38 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 18:08:38 INFO  BaseTest:25 - Installation finish
+2021-11-07 18:08:41 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 18:08:42 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 18:08:42 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 18:08:45 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 18:08:45 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 18:08:47 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 18:08:47 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 18:08:48 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 18:08:50 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 18:08:52 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 18:08:53 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 18:08:54 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 18:08:54 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 18:08:56 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 18:08:57 INFO  BasePage:64 - Sil butonuna tıklandı.
+2021-11-07 18:08:58 INFO  BaseTest:34 - Driver quit
+2021-11-07 18:09:13 INFO  BaseTest:24 - Before Run: Chrome Driver
+2021-11-07 18:09:13 INFO  BaseTest:25 - Installation finish
+2021-11-07 18:09:18 INFO  BasePage:64 - Element görüntülendi
+2021-11-07 18:09:19 INFO  BasePage:64 - Anladım a tıklandı.
+2021-11-07 18:09:19 INFO  BasePage:64 - Ana sayfa Giriş Yap butonuna tıklandı.
+2021-11-07 18:09:21 INFO  BasePage:64 - E-Posta Adresi girildi.
+2021-11-07 18:09:21 INFO  BasePage:64 - Şifre girildi.
+2021-11-07 18:09:22 INFO  BasePage:64 - Giriş Yap sayfası Giriş Yap butonuna tıklandı.
+2021-11-07 18:09:23 INFO  BasePage:64 - pantolon girildi.
+2021-11-07 18:09:24 INFO  BasePage:64 - Ara butonuna tıklandı.
+2021-11-07 18:09:26 INFO  BasePage:64 - Daha Fazla Gör butonuna tıklandı.
+2021-11-07 18:09:28 INFO  BasePage:64 - Ürüne tıklandı.
+2021-11-07 18:09:29 INFO  BasePage:64 - productPagePrice:83,99 TL
+2021-11-07 18:09:29 INFO  BasePage:64 - Beden seçildi.
+2021-11-07 18:09:30 INFO  BasePage:64 - Sepetim e tıklandı.
+2021-11-07 18:09:32 INFO  BasePage:64 - myBasketPrice:83,99 TL
+2021-11-07 18:09:32 INFO  BasePage:64 - Sil butonuna tıklandı.
+2021-11-07 18:09:33 INFO  BasePage:64 - Pop Up Sil butonuna tıklandı.
+2021-11-07 18:09:33 INFO  BasePage:64 - cartEmptyTitle:Sepetinizde ürün bulunmamaktadır.
+2021-11-07 18:09:34 INFO  BaseTest:34 - Driver quit
